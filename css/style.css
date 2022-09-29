@@ -1,0 +1,40 @@
+.titulo{
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-bottom: 80px;
+    margin-left: 180px;
+}
+
+.colorTexto{
+    color: blueviolet;
+    font-family:'Baloo Bhaijaan 2', cursive;
+    font-size: 20px;
+}
+
+
+#parrafo{
+    border-top: 5px solid yellow;
+    border-right: 3px dotted pink;
+    border-bottom: 7px dashed orange;
+    border-left: 25px double orchid;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+    font-family: 'Slackey', cursive;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+    border-top: 5px solid rgba(250, 254, 6, 0.989);
+}
+
+.padre{
+    text-align: center;
+    background-color: rgb(223, 16, 189);
+}
+
+h2{
+    background-color: blueviolet;
+}
